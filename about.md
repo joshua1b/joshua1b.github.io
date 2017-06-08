@@ -22,6 +22,10 @@ Go언어를 배우고 있다.
 
 * Nothing Yet.
 
+## Licenses
+
+* Profile Icon made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](http://www.flaticon.com/)
+
 ## Contact me
 
 [joshua1b2823@gmail.com](mailto:joshua1b2823@gmail.com)
