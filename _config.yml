@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Joshua Chung
+name: 어느 거북이의 글
 
 # Short bio or description (displayed in the header)
-description: 초보 개발자 학생
+description: Programmer From Somewhere On Earth
 
 
 #
@@ -16,12 +16,12 @@ description: 초보 개발자 학생
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: joshua1b2823@gmail.com
+  email: agarwal.akshay.akshay8@gmail.com
   facebook:
   flickr:
-  github: joshua1b
+  github: AkshayAgarwal007
   instagram:
-  linkedin:
+  linkedin: akshay-agarwal-782018a4
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
