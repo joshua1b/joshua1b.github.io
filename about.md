@@ -11,7 +11,7 @@ Go언어를 배우고 있다.
 
 ## Education
 
-* SECRET
+* 신백현중학교 재학 중
 
 ## Skills
 
