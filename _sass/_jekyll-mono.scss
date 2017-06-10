@@ -190,15 +190,15 @@ button.button-primary:focus {
 .ch-info-wrap, 
 .ch-info{
 	position: absolute;
-	width: 180px;
-	height: 180px;
+	width: 200;
+	height: 200;
 	border-radius: 50%;
 }
 
 .ch-info-wrap {
 	top: 20px;
 	left: 20px;
-	background: #fff url(/images/bg.jpg);
+	background: #add5e6 
 	box-shadow: 
 		0 0 0 20px rgba(255,255,255,0.2), 
 		inset 0 0 3px rgba(115,114, 23, 0.8);
@@ -224,7 +224,7 @@ button.button-primary:focus {
 
 .ch-info .ch-info-back {
 	opacity: 0;
-	background: #fff;
+	background: #add536;
 	pointer-events: none;
 	-webkit-transform: scale(1.5);
 	-moz-transform: scale(1.5);
