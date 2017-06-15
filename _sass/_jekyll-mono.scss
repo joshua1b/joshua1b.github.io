@@ -190,8 +190,8 @@ button.button-primary:focus {
 .ch-info-wrap, 
 .ch-info{
 	position: absolute;
-	width: 200px;
-	height: 200px;
+	width: 180px;
+	height: 180px;
 	border-radius: 50%;
 }
 
@@ -224,7 +224,7 @@ button.button-primary:focus {
 
 .ch-info .ch-info-back {
 	opacity: 0;
-	background: #add536;
+	background: #add5e6;
 	pointer-events: none;
 	-webkit-transform: scale(1.5);
 	-moz-transform: scale(1.5);
@@ -240,7 +240,7 @@ button.button-primary:focus {
 
 .ch-img-1 { 
 	background-image: url(#{$avatar});
-	background-size: 180px 180px;
+	background-size: 220px 220px;
 }
 
 .ch-info h3 {
